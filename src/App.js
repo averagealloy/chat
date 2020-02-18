@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import { Sidebar } from './containers/Sidebar'
-import { MessageList } from './containers/MessageList'
+import { MessagesList } from './containers/MessagesList'
 import { AddMessage } from './containers/AddMessage'
 
 class App extends Component {
